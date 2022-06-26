@@ -31,8 +31,8 @@ session operates in a virtual environment set up by `virtualenv2`.
 
 The similarity package has to be instantiated as follows before using its functions:
 ```python
-from util.similarity import Similarity
-self.similarity = Similarity()
+from similarity import Similarity
+similarity = Similarity()
 ``` 
 
 Then, the following functions from the `similarity.py` module can be used:
