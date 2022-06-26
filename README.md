@@ -2,7 +2,7 @@
 
 This is a library allowing to compute the spectral semantic similarity between adjectives and adverbs based on the overlaps of their second order synonyms, as presented in:
 
-	Colombo, Moreno, and Edy Portmann. "Semantic Similarity Between Adjectives and Adverbs—The Introduction of a New Measure." Soft Computing for Biomedical Applications and Related Topics. Springer, Cham, 2021. 103-116. https://doi.org/10.1007/978-3-030-49536-7_10
+Colombo, Moreno, and Edy Portmann. "Semantic Similarity Between Adjectives and Adverbs—The Introduction of a New Measure." Soft Computing for Biomedical Applications and Related Topics. Springer, Cham, 2021. 103-116. https://doi.org/10.1007/978-3-030-49536-7_10
 
 ## Setup
 
